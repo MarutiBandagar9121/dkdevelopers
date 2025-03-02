@@ -1,0 +1,56 @@
+[
+    {
+        "title": "Kalyan",
+        "type": "Plot",
+        "image": "/slider-images/slider2.jpg",
+        "typology": "9 Acre Project",
+        "location": "Haveli taluka, Kalyan",
+        "price": "25K/Guntha",
+        "status": "Completed"
+      },
+      {
+        "title": "Dehgaon",
+        "type": "Plot",
+        "image": "/slider-images/slider2.jpg",
+        "typology": "12 Acre Project",
+        "location": "Bhore, Dehgaon",
+        "price": "1L/Guntha",
+        "status": "Completed"
+      },
+      {
+        "title": "Rivera Park",
+        "type": "Plot",
+        "image": "/slider-images/slider2.jpg",
+        "typology": "6 Acre Project",
+        "location": "Kamthekdi",
+        "price": "4L/Guntha",
+        "status": "Completed"
+      },
+      {
+        "title": "Gondekar Aquafarm",
+        "type": "Plot",
+        "image": "/slider-images/slider2.jpg",
+        "typology": "27 Acre Project",
+        "location": "Uehha Taluka",
+        "price": "45K/Guntha",
+        "status": "Completed"
+      },
+      {
+        "title": "Dhapsare",
+        "type": "Plot",
+        "image": "/slider-images/slider2.jpg",
+        "typology": "50 Acre Project",
+        "location": "Velhe",
+        "price": "20K/Guntha",
+        "status": "Completed"
+      },
+      {
+        "title": "Maitri Park",
+        "type": "Plot",
+        "image": "/slider-images/slider2.jpg",
+        "typology": "6 Acre Project",
+        "location": "Gondhelkhandh, Dam Touch",
+        "price": "70K/Guntha",
+        "status": "Completed"
+      }
+]

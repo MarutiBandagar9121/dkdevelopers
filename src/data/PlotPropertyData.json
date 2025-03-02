@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Shirkoli",
+      "type": "Plot",
+      "image": "/slider-images/slider2.jpg",
+      "typology": "50 Acre Project",
+      "location": "Shirkai Devi, Dam View",
+      "price": "90K/Guntha",
+      "status": "Ongoing"
+    },
+    {
+      "title": "Ambegaon Valley",
+      "type": "Plot",
+      "image": "/slider-images/slider2.jpg",
+      "typology": "6 Acre Project",
+      "location": "Ambegaon, Dam View",
+      "price": "2.5L/Guntha",
+      "status": "Ongoing"
+    },
+    {
+      "title": "Greenlake",
+      "type": "Plot",
+      "image": "/slider-images/slider2.jpg",
+      "typology": "4.5 Acre Project",
+      "location": "Kadve, Greenlake",
+      "price": "3L/Guntha",
+      "status": "Ongoing"
+    },
+    {
+      "title": "Naigaon Village Homes",
+      "type": "Plot",
+      "image": "/slider-images/slider2.jpg",
+      "typology": "4 Acre Project",
+      "location": "Naigaon, Ring Road Touch",
+      "price": "2.5L/Guntha",
+      "status": "Ongoing"
+    },
+    {
+      "title": "Misty Green",
+      "type": "Plot",
+      "image": "/slider-images/slider2.jpg",
+      "typology": "20 Acre Project",
+      "location": "Wanjle Gaon, Velhe",
+      "price": "65K/Guntha",
+      "status": "Ongoing"
+    },
+    {
+      "title": "Sonavdi",
+      "type": "Plot",
+      "image": "/slider-images/slider2.jpg",
+      "typology": "3 Acre Project",
+      "location": "Bhor",
+      "price": "1L/Guntha",
+      "status": "Ongoing"
+    }
+]

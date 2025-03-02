@@ -1,0 +1,56 @@
+[
+    {
+      "title": "Luxury Apartment",
+      "type": "Residential",
+      "image": "/slider-images/slider1.jpg",
+      "typology": "3 BHK",
+      "location": "Downtown",
+      "price": "$500,000",
+      "status": "P123456789"
+    },
+    {
+      "title": "Cozy Cottage",
+      "type": "Residential",
+      "image": "/slider-images/slider1.jpg",
+      "typology": "2 BHK",
+      "location": "Countryside",
+      "price": "$300,000",
+      "status": "P987654321"
+    },
+    {
+      "title": "Cozy Cottage",
+      "type": "Residential",
+      "image": "/slider-images/slider1.jpg",
+      "typology": "2 BHK",
+      "location": "Countryside",
+      "price": "$300,000",
+      "status": "P987654321"
+    },
+    {
+      "title": "Cozy Cottage",
+      "type": "Residential",
+      "image": "/slider-images/slider1.jpg",
+      "typology": "2 BHK",
+      "location": "Countryside",
+      "price": "$300,000",
+      "status": "P987654321"
+    },
+    {
+      "title": "Cozy Cottage",
+      "type": "Residential",
+      "image": "/slider-images/slider1.jpg",
+      "typology": "2 BHK",
+      "location": "Countryside",
+      "price": "$300,000",
+      "status": "P987654321"
+    },
+    {
+      "title": "Cozy Cottage",
+      "type": "Residential",
+      "image": "/slider-images/slider1.jpg",
+      "typology": "2 BHK",
+      "location": "Countryside",
+      "price": "$300,000",
+      "status": "P987654321"
+    }
+  ]
